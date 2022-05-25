@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Step 1: chrome is loaded successfully]]>
+    </line>
+    <line>
+      <![CDATA[Step 2: https://opensource-demo.orangehrmlive.com/ is loaded successfully]]>
+    </line>
+    <line>
+      <![CDATA[Step 3. entered username :Admin]]>
+    </line>
+    <line>
+      <![CDATA[Step 4. entered password :admin123]]>
+    </line>
+    <line>
+      <![CDATA[Step 5. Login sucessful]]>
+    </line>
+    <line>
+      <![CDATA[Step 6 : validation done]]>
+    </line>
+    <line>
+      <![CDATA[Step 7 : Testcase pass]]>
+    </line>
+    <line>
+      <![CDATA[step 8: Browser is closed]]>
+    </line>
+    <line>
+      <![CDATA[Step 1: chrome is loaded successfully]]>
+    </line>
+    <line>
+      <![CDATA[Step 2: https://opensource-demo.orangehrmlive.com/ is loaded successfully]]>
+    </line>
+    <line>
+      <![CDATA[Step 3. entered username :adam]]>
+    </line>
+    <line>
+      <![CDATA[Step 4. entered password :swaroop]]>
+    </line>
+    <line>
+      <![CDATA[Step 5. Login unsucessful]]>
+    </line>
+    <line>
+      <![CDATA[Step 6. username field displayed]]>
+    </line>
+    <line>
+      <![CDATA[Step 7 : Invalid credentials validated successfully]]>
+    </line>
+    <line>
+      <![CDATA[Step 8 : Testcase pass]]>
+    </line>
+    <line>
+      <![CDATA[step 9 : Browser is closed]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-05-25T08:37:41 IST" name="Default suite" finished-at="2022-05-25T08:38:05 IST" duration-ms="24549">
+    <groups>
+    </groups>
+    <test started-at="2022-05-25T08:37:41 IST" name="Default test" finished-at="2022-05-25T08:38:05 IST" duration-ms="24549">
+      <class name="com.orangeHRM.TestRunner.Testcases">
+        <test-method signature="PositiveLoginTest_01()[pri:1, instance:com.orangeHRM.TestRunner.Testcases@7e07db1f]" started-at="2022-05-25T08:37:41 IST" name="PositiveLoginTest_01" finished-at="2022-05-25T08:37:56 IST" duration-ms="15213" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Step 1: chrome is loaded successfully]]>
+            </line>
+            <line>
+              <![CDATA[Step 2: https://opensource-demo.orangehrmlive.com/ is loaded successfully]]>
+            </line>
+            <line>
+              <![CDATA[Step 3. entered username :Admin]]>
+            </line>
+            <line>
+              <![CDATA[Step 4. entered password :admin123]]>
+            </line>
+            <line>
+              <![CDATA[Step 5. Login sucessful]]>
+            </line>
+            <line>
+              <![CDATA[Step 6 : validation done]]>
+            </line>
+            <line>
+              <![CDATA[Step 7 : Testcase pass]]>
+            </line>
+            <line>
+              <![CDATA[step 8: Browser is closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- PositiveLoginTest_01 -->
+        <test-method signature="NegtiveLoginTest_02()[pri:2, instance:com.orangeHRM.TestRunner.Testcases@7e07db1f]" started-at="2022-05-25T08:37:56 IST" name="NegtiveLoginTest_02" finished-at="2022-05-25T08:38:05 IST" duration-ms="9272" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Step 1: chrome is loaded successfully]]>
+            </line>
+            <line>
+              <![CDATA[Step 2: https://opensource-demo.orangehrmlive.com/ is loaded successfully]]>
+            </line>
+            <line>
+              <![CDATA[Step 3. entered username :adam]]>
+            </line>
+            <line>
+              <![CDATA[Step 4. entered password :swaroop]]>
+            </line>
+            <line>
+              <![CDATA[Step 5. Login unsucessful]]>
+            </line>
+            <line>
+              <![CDATA[Step 6. username field displayed]]>
+            </line>
+            <line>
+              <![CDATA[Step 7 : Invalid credentials validated successfully]]>
+            </line>
+            <line>
+              <![CDATA[Step 8 : Testcase pass]]>
+            </line>
+            <line>
+              <![CDATA[step 9 : Browser is closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- NegtiveLoginTest_02 -->
+      </class> <!-- com.orangeHRM.TestRunner.Testcases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
