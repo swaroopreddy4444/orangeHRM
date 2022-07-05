@@ -13,7 +13,7 @@ public class BrowserFactory {
 
 	private static WebDriver driver;
 
-	public static WebDriver openLocalBrowser(String browser) {
+	public static  WebDriver openLocalBrowser(String browser) {
 		if (browser.equalsIgnoreCase("chrome")) {
 			WebDriverManager.chromedriver().setup();
 			driver = new ChromeDriver();
@@ -28,7 +28,7 @@ public class BrowserFactory {
 		return driver;
 	}
 
-	public static void launchApplication(String url) {
+	public static  void launchApplication(String url) {
 
 		driver.get(url);
 		driver.manage().window().maximize();

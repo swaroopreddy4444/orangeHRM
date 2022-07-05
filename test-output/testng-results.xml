@@ -53,12 +53,12 @@
       <![CDATA[step 9 : Browser is closed]]>
     </line>
   </reporter-output>
-  <suite started-at="2022-05-25T08:37:41 IST" name="Default suite" finished-at="2022-05-25T08:38:05 IST" duration-ms="24549">
+  <suite started-at="2022-06-19T11:28:44 IST" name="Default suite" finished-at="2022-06-19T11:29:37 IST" duration-ms="53003">
     <groups>
     </groups>
-    <test started-at="2022-05-25T08:37:41 IST" name="Default test" finished-at="2022-05-25T08:38:05 IST" duration-ms="24549">
+    <test started-at="2022-06-19T11:28:44 IST" name="Default test" finished-at="2022-06-19T11:29:37 IST" duration-ms="53003">
       <class name="com.orangeHRM.TestRunner.Testcases">
-        <test-method signature="PositiveLoginTest_01()[pri:1, instance:com.orangeHRM.TestRunner.Testcases@7e07db1f]" started-at="2022-05-25T08:37:41 IST" name="PositiveLoginTest_01" finished-at="2022-05-25T08:37:56 IST" duration-ms="15213" status="PASS">
+        <test-method signature="PositiveLoginTest_01()[pri:1, instance:com.orangeHRM.TestRunner.Testcases@7e07db1f]" started-at="2022-06-19T11:28:44 IST" name="PositiveLoginTest_01" finished-at="2022-06-19T11:29:24 IST" duration-ms="40364" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Step 1: chrome is loaded successfully]]>
@@ -86,7 +86,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- PositiveLoginTest_01 -->
-        <test-method signature="NegtiveLoginTest_02()[pri:2, instance:com.orangeHRM.TestRunner.Testcases@7e07db1f]" started-at="2022-05-25T08:37:56 IST" name="NegtiveLoginTest_02" finished-at="2022-05-25T08:38:05 IST" duration-ms="9272" status="PASS">
+        <test-method signature="NegtiveLoginTest_02()[pri:2, instance:com.orangeHRM.TestRunner.Testcases@7e07db1f]" started-at="2022-06-19T11:29:24 IST" name="NegtiveLoginTest_02" finished-at="2022-06-19T11:29:37 IST" duration-ms="12565" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Step 1: chrome is loaded successfully]]>
